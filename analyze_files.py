@@ -58,7 +58,8 @@ def analyze_files():
             results.append({
                 'Nome do Arquivo': filename,
                 'Quantidade de Caracteres': char_count,
-                'Quantidade de Tokens (Anthropic)': token_count
+                'Quantidade de Tokens (Anthropic)': token_count,
+                'referencia_completa': '(Catecismo da Igreja Católica)'
             })
 
         except Exception as e:
@@ -66,7 +67,8 @@ def analyze_files():
             results.append({
                 'Nome do Arquivo': filename,
                 'Quantidade de Caracteres': 0,
-                'Quantidade de Tokens (Anthropic)': 0
+                'Quantidade de Tokens (Anthropic)': 0,
+                'referencia_completa': '(Catecismo da Igreja Católica)'
             })
 
     # Cria DataFrame
@@ -76,7 +78,8 @@ def analyze_files():
     totals = pd.DataFrame([{
         'Nome do Arquivo': 'TOTAL',
         'Quantidade de Caracteres': df['Quantidade de Caracteres'].sum(),
-        'Quantidade de Tokens (Anthropic)': df['Quantidade de Tokens (Anthropic)'].sum()
+        'Quantidade de Tokens (Anthropic)': df['Quantidade de Tokens (Anthropic)'].sum(),
+        'referencia_completa': ''
     }])
 
     df = pd.concat([df, totals], ignore_index=True)
