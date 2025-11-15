@@ -1,0 +1,38 @@
+[
+  {
+    "nome_livro": "2João",
+    "capitulo": null,
+    "versiculo_inicial": "1",
+    "versiculo_final": "3",
+    "texto_comentario": "Esta Epístola aborda os mesmos temas gerais de sua primeira carta, mas de forma mais resumida. O presbítero: Termo usado na Igreja Apostólica de modo intercambiável com \"sacerdote\" ou \"bispo\". Esses termos específicos para os vários ofícios eclesiásticos ainda não haviam se tornado universais. Aqui, refere-se ao autor da carta, João. A senhora eleita e seus filhos: A Igreja e seus fiéis. A Igreja, desde o princípio, refere-se a si mesma com o pronome feminino, em reconhecimento de seu status como Esposa de Cristo. Todos os que conhecem a verdade: A Igreja Católica é depositária do Depósito da Fé, e o Espírito Santo mantém a Igreja fiel à verdade em seus ensinamentos sobre fé e moral. Outras comunidades cristãs, não unidas à Igreja Católica, possuem elementos da verdade, mas não sua plenitude.",
+    "referencia_bibliografica": "CIC 2040",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "2João",
+    "capitulo": null,
+    "versiculo_inicial": "4",
+    "versiculo_final": "6",
+    "texto_comentario": "Cristo ensinou que toda a lei moral — todos os Mandamentos e as Bem-aventuranças — está resumida nos Grandes Mandamentos: amarás a Deus de todo o teu coração, com toda a tua mente e com todas as tuas forças, e amarás o teu próximo como a ti mesmo. Posteriormente, deu seu Novo Mandamento: devemos amar uns aos outros como o próprio Cristo nos amou. Se verdadeiramente vivemos esses Mandamentos do Amor, automaticamente guardamos todos os Mandamentos. Alguns de vossos filhos: Com base no tom desta Epístola, João provavelmente não quis dizer que alguns seguem a verdade em detrimento de outros; antes, aqueles que ele chegou a conhecer mostraram-se fiéis.",
+    "referencia_bibliografica": "CIC 1823, 2055, 2093, 2196, 2822",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "2João",
+    "capitulo": null,
+    "versiculo_inicial": "7",
+    "versiculo_final": "11",
+    "texto_comentario": "Os do \"anticristo\" recusaram-se a reconhecer Cristo como o Filho de Deus, plenamente Deus e plenamente homem. João afirmou que qualquer um que não defendesse essa doutrina de Cristo era herege e deveria ser evitado. A situação com esses falsos mestres parece ter-se tornado mais grave desde a época da primeira carta de João. Na cultura daquela época, qualquer tipo de saudação ou hospitalidade implicava proximidade, comunhão e amizade. Associar-se de tal modo com aqueles que haviam rejeitado o ensinamento cristão básico teria escandalizado outros, transmitindo aprovação ou cumplicidade em suas crenças errôneas.",
+    "referencia_bibliografica": "CIC 465, 675, 2088",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "2João",
+    "capitulo": null,
+    "versiculo_inicial": "12",
+    "versiculo_final": "13",
+    "texto_comentario": "Os filhos de vossa irmã eleita: Isto se refere aos fiéis da comunidade cristã de Éfeso. As várias igrejas locais, ou dioceses, unidas em Cristo e na fé dos Apóstolos, formam uma única Igreja universal.",
+    "referencia_bibliografica": "CIC 752",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  }
+]
