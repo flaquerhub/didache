@@ -1,0 +1,38 @@
+[
+  {
+    "nome_livro": "Habacuc",
+    "capitulo": "Introdução",
+    "versiculo_inicial": "1",
+    "versiculo_final": "3",
+    "texto_comentario": "Este livro trata da questão de saber se a aparente inatividade de Deus ao permitir que Israel (ou qualquer indivíduo) seja perseguido por inimigos estrangeiros (ou por israelitas infiéis) é um sinal de seu desinteresse. Foi escrito após o exílio das tribos do norte para a Assíria no final do século VIII a.C., mas antes da destruição de Judá pelos babilônios no início do século VI a.C. Pouco se sabe sobre Habacuc; de grande interesse, no entanto, é a anedota do Livro de Daniel sobre Habacuc sendo carregado pelos cabelos para levar comida a Daniel enquanto ele estava na cova dos leões (cf. Dn 14,33-43).",
+    "referencia_bibliografica": "Dn 14,33-43",
+    "referencia_bibliografica_extenso": "Livro de Daniel"
+  },
+  {
+    "nome_livro": "Habacuc",
+    "capitulo": "1",
+    "versiculo_inicial": "1",
+    "versiculo_final": "17",
+    "texto_comentario": "À semelhança de Naum, Habacuc utilizou o método do diálogo, embora suas perguntas fossem dirigidas diretamente a Deus. Embora reconhecesse os pecados de Israel, ele questionou por que Deus usaria o mal para punir os judeus.",
+    "referencia_bibliografica": null,
+    "referencia_bibliografica_extenso": null
+  },
+  {
+    "nome_livro": "Habacuc",
+    "capitulo": "2",
+    "versiculo_inicial": "1",
+    "versiculo_final": "20",
+    "texto_comentario": "Deus, que às vezes parece distante, conhece todas as coisas a cada momento. Ele sabia sobre a pilhagem, a violência, a opressão e a idolatria dos pagãos que governavam os judeus; contudo, sua obra seria vista no tempo apropriado. Habacuc aconselhou paciência e confiança de que Deus interviria no momento certo.",
+    "referencia_bibliografica": "CIC 268",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "Habacuc",
+    "capitulo": "3",
+    "versiculo_inicial": "1",
+    "versiculo_final": "19",
+    "texto_comentario": "Em um hino, ou salmo, Habacuc prestou homenagem ao poder de Deus e expressou sua própria confiança de que Deus mostraria misericórdia a Israel e levaria seus opressores à justiça.",
+    "referencia_bibliografica": null,
+    "referencia_bibliografica_extenso": null
+  }
+]
