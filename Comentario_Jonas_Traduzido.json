@@ -1,0 +1,65 @@
+[
+  {
+    "nome_livro": "Jonas",
+    "capitulo": "1",
+    "versiculo_inicial": "1",
+    "versiculo_final": null,
+    "texto_comentario": "Este livro é incomum entre a literatura profética pela sua falta de profecias. Funciona primariamente como uma lição moral, ilustrando a misericórdia de Deus em resposta aos desejos e atos de arrependimento. Situa-se entre as histórias mais conhecidas do Antigo Testamento.",
+    "referencia_bibliografica": null,
+    "referencia_bibliografica_extenso": null
+  },
+  {
+    "nome_livro": "Jonas",
+    "capitulo": "1",
+    "versiculo_inicial": "1",
+    "versiculo_final": "3",
+    "texto_comentario": "A resposta inicial de Jonas ao chamado de Deus foi fugir, pois não queria que Nínive fosse poupada da destruição.",
+    "referencia_bibliografica": "CIC 29, 1656-1657, 2226, 2232, 2461",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "Jonas",
+    "capitulo": "1",
+    "versiculo_inicial": "4",
+    "versiculo_final": "16",
+    "texto_comentario": "Os marinheiros, embora pagãos, eram homens de boa vontade com alguns sentimentos religiosos. No momento de crise, rezaram aos seus deuses; e quando Jonas se ofereceu para ser lançado ao mar, recusaram-se a fazê-lo no início, aceitando a ideia apenas com grande tristeza e orações pedindo perdão. Em um último momento desesperado, invocaram o próprio Senhor, o único Deus verdadeiro, e quando a tempestade cessou, honraram a Deus com sacrifícios de ação de graças.",
+    "referencia_bibliografica": null,
+    "referencia_bibliografica_extenso": null
+  },
+  {
+    "nome_livro": "Jonas",
+    "capitulo": "1",
+    "versiculo_inicial": "14",
+    "versiculo_final": "17",
+    "texto_comentario": "Este livro não precisa ser tomado como um relato histórico literal. De fato, muitos Padres da Igreja viram o Livro de Jonas, ou pelo menos alguns de seus elementos, como uma obra literária destinada a ensinar verdades sobre Deus e seu relacionamento com os seres humanos. Três dias: Isto prefigura os três dias que Cristo passou no sepulcro antes de ressuscitar. O próprio Cristo usou a história de Jonas em sua pregação; notando o arrependimento dos antigos ninivitas e contrastando-os com os judeus céticos de seus dias, referiu-se a si mesmo como \"algo maior do que Jonas\" (cf. Mt 12,41). Posteriormente, em reação a pedidos arrogantes de sinais miraculosos, disse que o único sinal dado seria o \"sinal de Jonas\" (Mt 12,39-40), um claro prenúncio de sua própria Morte e Ressurreição.",
+    "referencia_bibliografica": "CIC 590, 627, 994",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "Jonas",
+    "capitulo": "2",
+    "versiculo_inicial": "1",
+    "versiculo_final": "10",
+    "texto_comentario": "Jonas passou por sua própria experiência de conversão no ventre da baleia. Sua oração de angústia reconheceu sua situação — comparada aqui ao Sheol, o lugar dos mortos — e orou a Deus por misericórdia e libertação.",
+    "referencia_bibliografica": "CIC 627, 2585",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "Jonas",
+    "capitulo": "3",
+    "versiculo_inicial": "1",
+    "versiculo_final": "10",
+    "texto_comentario": "O agora obediente Jonas pregou com tanta eficácia que toda a cidade de Nínive, liderada pelo seu próprio rei, arrependeu-se e convocou um período de jejum. Assim, Nínive foi poupada da destruição antecipada pela misericórdia de Deus. Este evento prefigura a resposta positiva por parte dos pecadores e dos gentios ao convite de Cristo ao arrependimento e à conversão.",
+    "referencia_bibliografica": "CIC 1307",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "Jonas",
+    "capitulo": "4",
+    "versiculo_inicial": "1",
+    "versiculo_final": "11",
+    "texto_comentario": "Jonas ressentiu-se da misericórdia de Deus para com os ninivitas e ficou desapontado porque Nínive não foi destruída. Se Jonas se importava com uma planta murcha que cresceu e morreu sem sua intervenção, quanto mais Deus deve se importar com o povo de Nínive, que são obras de sua própria criação feitas à sua imagem e semelhança?",
+    "referencia_bibliografica": "CIC 239, 2416",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  }
+]
