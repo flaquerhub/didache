@@ -1,0 +1,38 @@
+[
+  {
+    "nome_livro": "3João",
+    "capitulo": "1",
+    "versiculo_inicial": "1",
+    "versiculo_final": "2",
+    "texto_comentario": "João identificou-se como \"o Ancião\"; isto pode referir-se a um homem mais velho ou a um líder na comunidade cristã, o que veio a ser conhecido como bispo ou sacerdote. É dirigida a Gaio, de quem nada mais se sabe. A carta trata principalmente do problema de um líder de certa comunidade cristã que não reconhecia a autoridade do Apóstolo.",
+    "referencia_bibliografica": "CIC 459",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "3João",
+    "capitulo": "1",
+    "versiculo_inicial": "3",
+    "versiculo_final": "8",
+    "texto_comentario": "João elogia Gaio, que parece ser um leigo, pelos relatos positivos que havia ouvido a respeito de sua vida, serviço e exemplo para a comunidade. Ele é alguém que está unido a Cristo, caminha na sua luz e defende a sua verdade. Meus filhos: Como Paulo e outros Apóstolos e missionários, João se considera um pai espiritual para as pessoas a quem serve.",
+    "referencia_bibliografica": "CIC 432, 2044-2046",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "3João",
+    "capitulo": "1",
+    "versiculo_inicial": "9",
+    "versiculo_final": "12",
+    "texto_comentario": "O líder local, Diótrefes, recusou-se a reconhecer a autoridade de João, criticou-o duramente e não quis receber os enviados que João lhe havia mandado. João deu seu aval a Demétrio e seus ensinamentos. Quem pratica o bem é de Deus: Se queremos cumprir a missão de Cristo de proclamar o Evangelho, devemos validar essas verdades pelo testemunho de nossas vidas.",
+    "referencia_bibliografica": "CIC 553, 861-862, 2044, 2235",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  },
+  {
+    "nome_livro": "3João",
+    "capitulo": "1",
+    "versiculo_inicial": "13",
+    "versiculo_final": "15",
+    "texto_comentario": "A paz esteja convosco: A saudação tradicional judaica, Shalom, que os cristãos haviam adotado para si mesmos.",
+    "referencia_bibliografica": "CIC 1301, 1567",
+    "referencia_bibliografica_extenso": "Catecismo da Igreja Católica"
+  }
+]
